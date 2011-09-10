@@ -1,5 +1,5 @@
 Changes
-data/sample
+data/
 lib/Jungle.pm
 lib/Jungle/Browser.pm
 lib/Jungle/Data/News.pm
